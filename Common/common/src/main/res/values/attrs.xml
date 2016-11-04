@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+  <declare-styleable name="CircleImageView">
+    <attr name="border_width" format="dimension"/>
+    <attr name="border_color" format="color"/>
+  </declare-styleable>
+
+  <declare-styleable name="ToggleButton">
+    <attr name="borderWidth" format="dimension"/>
+    <attr name="offBorderColor" format="reference|color"/>
+    <attr name="offColor" format="reference|color"/>
+    <attr name="onColor" format="reference|color"/>
+    <attr name="spotColor" format="reference|color"/>
+    <attr name="animate" format="reference|boolean"/>
+  </declare-styleable>
+
+  <declare-styleable name="totem_switch">
+    <attr name="totem_switch_mask_width" format="dimension"/>
+    <attr name="totem_switch_mask_height" format="dimension"/>
+    <attr name="totem_switch_bottom_width" format="dimension"/>
+    <attr name="totem_switch_bottom_height" format="dimension"/>
+  </declare-styleable>
+
+  <declare-styleable name="round_angle">
+    <attr name="round_angle_size" format="dimension"/>
+    <attr name="up_and_down" format="boolean"/>
+  </declare-styleable>
+
+</resources>

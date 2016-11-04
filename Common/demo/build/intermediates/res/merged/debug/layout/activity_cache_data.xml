@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="SharedPreferences保存数据"
+    android:onClick="savePreferences"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="SharedPreferences读取数据"
+    android:onClick="loadPreferences"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="File保存数据"
+    android:onClick="saveFile"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="File读取数据"
+    android:onClick="loadFile"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="POJO对象保存成JSON格式文件"
+    android:onClick="saveObjectToJsonFile"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="POJO对象从JSON格式文件读取"
+    android:onClick="loadObjectFromJsonFile"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="List数据对象保存成JSON格式文件"
+    android:onClick="saveListToJsonFile"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="List数据对象从JSON格式文件读取"
+    android:onClick="loadListFromJsonFile"/>
+
+</LinearLayout>

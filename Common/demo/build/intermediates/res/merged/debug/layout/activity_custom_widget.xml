@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:background="@android:color/white">
+
+  <TextView
+    android:text="Marquee long text Marquee long text Marquee long text Marquee long text Marquee long text Marquee long text Marquee long text"
+    android:id="@+id/MarqueeText"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:singleLine="true"
+    android:ellipsize="marquee"
+    android:marqueeRepeatLimit="marquee_forever"
+    android:scrollHorizontally="true"
+    android:padding="15dip"
+    android:paddingRight="15dip"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:freezesText="true"/>
+
+
+  <TextView
+    android:text="Marquee short text"
+    android:id="@+id/MarqueeText2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:singleLine="true"
+    android:ellipsize="marquee"
+    android:marqueeRepeatLimit="marquee_forever"
+    android:scrollHorizontally="true"
+    android:padding="15dip"
+    android:paddingRight="15dip"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:freezesText="true"/>
+
+
+  <CheckBox
+    android:id="@+id/need_invoice"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:checked="false"
+    android:text="开具发票"
+    android:layout_margin="10dp"
+    android:onClick="toggleInvoice"
+    android:button="@drawable/invoice_checkbox_selector"
+    android:textColor="@android:color/black"/>
+
+
+  <RadioGroup
+    android:id="@+id/invoice_type"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <RadioButton
+      android:id="@+id/radio0"
+      android:layout_width="wrap_content"
+      android:layout_height="33dp"
+      android:button="@drawable/invoice_type_selector"
+      android:checked="true"
+      android:text="日用品"
+      android:textColor="@android:color/black"/>
+
+    <RadioButton
+      android:id="@+id/radio1"
+      android:layout_width="wrap_content"
+      android:layout_height="33dp"
+      android:button="@drawable/invoice_type_selector"
+      android:text="食品"
+      android:textColor="@android:color/black"/>
+
+    <RadioButton
+      android:id="@+id/radio2"
+      android:layout_width="wrap_content"
+      android:layout_height="33dp"
+      android:button="@drawable/invoice_type_selector"
+      android:text="礼品"
+      android:textColor="@android:color/black"/>
+  </RadioGroup>
+
+
+  <gavin.widget.SwitchButton
+    android:id="@+id/switchButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_centerVertical="true"
+    android:layout_margin="20dp"/>
+
+  <com.zcw.togglebutton.ToggleButton
+    android:id="@+id/fix_time_toggle"
+    android:layout_alignParentRight="true"
+    android:layout_centerVertical="true"
+    android:layout_margin="10dp"
+    android:layout_width="54dp"
+    android:layout_height="30dp"
+    app:onColor="@android:color/darker_gray">
+  </com.zcw.togglebutton.ToggleButton>
+
+</LinearLayout>

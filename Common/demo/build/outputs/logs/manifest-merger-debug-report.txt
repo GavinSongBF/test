@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:3:11-31
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:5:3-64
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:5:20-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:9:3-60
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:9:20-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:11:3-12:21
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:11:20-74
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:13:3-82
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:13:20-80
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:14:3-72
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:14:20-70
+application
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:16:3-76:17
+MERGED from [in.srain.cube:ultra-ptr:1.0.8] G:\Common\demo\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.8\AndroidManifest.xml:11:5-20
+MERGED from [Common:common:unspecified] G:\Common\demo\build\intermediates\exploded-aar\Common\common\unspecified\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:20:7-39
+	android:supportsRtl
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:21:7-33
+	android:allowBackup
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:19:7-33
+	android:icon
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:17:5-39
+	android:theme
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:22:7-38
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:18:5-34
+activity#gavin.demo.activity.SplashActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:24:5-33:16
+	android:theme
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:25:9-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:27:7-31:23
+action#android.intent.action.MAIN
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:30:9-68
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:30:19-66
+activity#gavin.demo.activity.MainActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:35:5-37:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:35:15-62
+activity#gavin.demo.activity.RoundCornerViewActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:39:5-40:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:39:15-73
+activity#gavin.demo.activity.HttpRequestActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:42:5-43:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:42:15-69
+activity#gavin.demo.activity.LoadImageActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:44:5-45:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:44:15-67
+activity#gavin.demo.activity.CustomWidgetActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:46:5-47:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:46:15-70
+activity#gavin.demo.activity.CacheDataActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:48:5-49:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:48:15-67
+activity#gavin.demo.activity.PhotoActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:51:7-52:18
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:51:17-65
+activity#gavin.activity.PhotoBrowserActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:54:7-55:18
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:54:17-67
+activity#gavin.demo.activity.PullToRefreshListViewActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:57:5-81
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:57:15-79
+activity#gavin.demo.activity.SimpleListActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:59:5-60:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:59:15-68
+activity#gavin.demo.activity.HighlightViewActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:62:5-63:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:62:15-71
+activity#gavin.demo.activity.PinnedSectionListActivity
+ADDED from G:\Common\demo\src\main\AndroidManifest.xml:65:5-66:16
+	android:name
+		ADDED from G:\Common\demo\src\main\AndroidManifest.xml:65:15-75
+uses-sdk
+INJECTED from G:\Common\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [in.srain.cube:ultra-ptr:1.0.8] G:\Common\demo\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.8\AndroidManifest.xml:7:5-9:41
+MERGED from [Common:common:unspecified] G:\Common\demo\build\intermediates\exploded-aar\Common\common\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] G:\Common\demo\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v13:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] G:\Common\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml
+		INJECTED from G:\Common\demo\src\main\AndroidManifest.xml

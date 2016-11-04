@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="viewPagerIndicatorTextStyle">
+        <item name="android:textColor">@color/view_pager_tab_indicator_text_color</item>
+        <item name="android:textSize">16dp</item>
+        <!--<item name="android:textStyle">bold</item>-->
+    </style>
+
+</resources>

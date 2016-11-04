@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="RequestParams请求服务器数据"
+    android:layout_margin="10dp"
+    android:onClick="loadData"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="RequestObject请求服务器数据"
+    android:layout_margin="10dp"
+    android:onClick="loadDataWithRequestObject"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="POST提交数据，上传给服务器"
+    android:layout_margin="10dp"
+    android:onClick="postData"/>
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+
+  <gavin.widget.HighlightButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="自动变色按钮"
+    android:textColor="@color/button_material_dark"
+    android:padding="5dp"
+    android:background="@drawable/highlight_layout_background"
+    android:id="@+id/highlight_button"/>
+
+  <gavin.widget.HighlightImageButton
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:layout_margin="10dp"
+    android:src="@drawable/ic_launcher"
+    android:id="@+id/highlight_image_button"/>
+
+  <gavin.widget.HighlightImageView
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:clickable="true"
+    android:src="@drawable/download"
+    android:layout_margin="10dp"
+    android:id="@+id/highlight_image_view"/>
+
+  <ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/imageView3"
+    android:layout_margin="10dp"
+    android:layout_gravity="right"/>
+
+  <gavin.widget.HighlightRelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:clickable="true"
+    android:background="@drawable/highlight_layout_background"
+    android:id="@+id/highlight_layout">
+
+    <ImageView
+      android:layout_width="60dp"
+      android:layout_height="60dp"
+      android:layout_margin="20dp"
+      android:src="@drawable/avatar_default"
+      android:layout_alignParentLeft="true"
+      android:id="@+id/avatar"/>
+
+
+    <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="逍遥一狂"
+      android:textSize="19sp"
+      android:textColor="@android:color/black"
+      android:layout_toRightOf="@id/avatar"
+      android:layout_centerVertical="true"
+      android:id="@+id/nick_name"/>
+
+    <ImageView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_margin="20dp"
+      android:src="@drawable/right_arrow"
+      android:layout_alignParentRight="true"
+      android:layout_centerVertical="true"/>
+
+    <View
+      android:layout_width="match_parent"
+      android:layout_height="1dp"
+      android:background="#de4d1d"
+      android:layout_alignParentBottom="true"/>
+
+
+  </gavin.widget.HighlightRelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:top="-50px">
+        <bitmap android:src="@drawable/totem_splash_demo" />
+    </item>
+</layer-list>

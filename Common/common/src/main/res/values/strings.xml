@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Common</string>
+
+  <string name="totem_loading">加载中...</string>
+  <string name="totem_server_error">服务器错误</string>
+
+  <string name="totem_alert_confirm">确定</string>
+  <string name="totem_alert_cancel">取消</string>
+</resources>
